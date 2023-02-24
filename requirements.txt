@@ -1,0 +1,14 @@
+asgiref==3.6.0
+attrs==22.2.0
+Django==4.1.6
+django-cors-headers==3.13.0
+djangorestframework==3.14.0
+drf-spectacular==0.25.1
+inflection==0.5.1
+jsonschema==4.17.3
+Pillow==9.4.0
+pyrsistent==0.19.3
+pytz==2022.7.1
+PyYAML==6.0
+sqlparse==0.4.3
+uritemplate==4.1.1
